@@ -191,13 +191,10 @@ article.post img {
 }
 
 #practice h2, 
-#faq h2 {
+#faq h2,
+.questions h4 {
   color: #3b638b;
   border-bottom: 1px solid #c0c0c0;
-}
-
-.questions h4{
-  color: #3b638b;
 }
 
 table {
